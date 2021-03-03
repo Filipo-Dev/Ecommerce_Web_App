@@ -1,2 +1,2 @@
-# School_based_project
+# Ecoomerce_Web_App
 This is an Ecommerce Web Application with Django framework.
